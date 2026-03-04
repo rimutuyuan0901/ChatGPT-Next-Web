@@ -564,6 +564,7 @@ const googleModels = [
   "gemini-2.5-pro",
   "gemini-3-pro-preview",
   "gemini-3-flash-preview",
+  "gemini-3.1-flash-lite-preview",
   "gemini-3.1-pro-preview"
 ];
 
